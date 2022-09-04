@@ -1,0 +1,8 @@
+.loading {
+    display: flex;
+    height: 80vh;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    width:40%;
+}
