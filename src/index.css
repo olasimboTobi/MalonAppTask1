@@ -113,13 +113,15 @@ body::-webkit-scrollbar {
   .postCredit a, 
   .postCredit a:visited {
     margin-right: 0.5rem;
-    color: black;
+    color:greenyellow;
   }
   
   .postCredit a:hover, 
   .postCredit a:focus {
-    color: hsla(0, 0%, 0%, 0.75);
+    color: fuchsia;
   }
+
+  
   
   .excerpt {
     font-style: italic;
